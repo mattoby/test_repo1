@@ -9,5 +9,5 @@ so read this.
 # this should work as math:
 $$\alpha + \frac{\beta}{\gamma} = \delta$$
 
-
+$$ \alpha = \beta $$ 
 
