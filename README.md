@@ -7,7 +7,7 @@ yes
 so read this.
 
 # this should work as math:
-$$ \alpha + \fraq{\beta}{\gamma} = \delta$$
+$$\alpha + \frac{\beta}{\gamma} = \delta$$
 
 
 
